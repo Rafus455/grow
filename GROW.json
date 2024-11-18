@@ -385,6 +385,7 @@
       },
       {
         "alwaysLoaded": false,
+<<<<<<< Updated upstream
         "file": "assets/Plant-Pot Seedling_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -408,6 +409,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/58ce11137ed5f7541a5628f08706c9749bbddeb45f4f62c160f7810831a2bd57_Plant-Pot Seedling_Shadow.png",
           "name": "Plant-Pot Seedling_Shadow.png"
         }
+=======
+        "file": "Capture.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Capture.PNG",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Capture2.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "Capture2.PNG",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "doigby2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "doigby2.jpg",
+        "smoothed": true,
+        "userAdded": false
+>>>>>>> Stashed changes
       }
     ],
     "resourceFolders": []

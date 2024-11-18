@@ -235,8 +235,8 @@
       "name": "NewSprite",
       "persistentUuid": "8919c032-6609-4ae3-ba28-7dd0efb2a2ec",
       "width": 0,
-      "x": 300,
-      "y": 464,
+      "x": 240,
+      "y": 495,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -826,7 +826,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "doigby.jpg",
+                  "image": "doigby2.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
